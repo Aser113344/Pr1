@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- بيانات الـ API ---
     const API_URL = "https://router.huggingface.co/v1/chat/completions";
-    const API_TOKEN = "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"; // التوكين بتاعك
+    const API_TOKEN = "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"; // التوكين بتاعك
     const MODEL_NAME = "zai-org/GLM-4.6:novita";
 
     // --- البرومبت بتاع السيستم ---
