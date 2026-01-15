@@ -36,7 +36,7 @@ import threading
 # إعدادات البوتات
 
 mandatory_subscription_channel = 'https://t.me/N1_ORGANIZATION_1'
-BOT_TOKEN = '8517733708:AAHhVV1wImoisoab23QRzoREca2FZQ5CzzQ'
+BOT_TOKEN = '8077182668:AAG8KKLS9ZoWziNEd0KgI6NBiFzCCTS2EwM'
 ADMIN_ID = '2118176057'
 ADMIN_IDS = ['7460535883', '2118176057']
 
